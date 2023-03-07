@@ -1,1 +1,1 @@
-# Python
+# Python İLK SÜRÜM
